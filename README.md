@@ -88,11 +88,9 @@ Page 3: Product & Pricing Details
 
 # Screenshot / demo's
 what looks like dashboard: 
-           # sample 1: ["https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/over%20view%20screenshot.png"]
-           # sample 2: ["https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20screenshot.png"]
-           # sample 3: ["https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20view%20screenshot.png"]
+           # [sample 1]: (https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/over%20view%20screenshot.png)
+           
+           # [sample 2]: (https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20screenshot.png)
+           
+           # [sample 3]: (https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20view%20screenshot.png)
 
-# view dashboard: ("https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/e-comerce%20analysis.pbix") 
-  step 1: click the link and download the file
-  step 2: download powerbi
-  step 3: click file select powerbi and view the meaningful dashboard
