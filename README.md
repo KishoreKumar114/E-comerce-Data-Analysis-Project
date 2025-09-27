@@ -73,6 +73,7 @@ The dashboard provides actionable insights on sales trends, product performance,
 # How to Use
 
 1. 📥 Download Ecommerce_Analysis.pbix from this repository.
+(https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/e-comerce%20analysis.pbix)
 
 
 2. 🖥 Open in Power BI Desktop.
