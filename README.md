@@ -91,5 +91,5 @@ what looks like dashboard. - ![Alt text](https://github.com/KishoreKumar114/E-co
            
  sample 2. - ![Alt text](https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20screenshot.png)
            
- sample 3. - ![Alt text]: (https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20view%20screenshot.png)
+ sample 3. - ![Alt text](https://github.com/KishoreKumar114/E-comerce-Data-Analysis-Project/blob/main/product%20view%20screenshot.png)
 
